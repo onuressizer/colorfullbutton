@@ -1,0 +1,29 @@
+.input-gruop{
+    background-color: rgb(80, 72, 72);
+    display: inline-block;
+    padding: 5px;
+    border-radius: 30px;
+    position: relative;
+}
+.input-gruop input{
+    background: none;
+    border: 0;
+    outline: 0;
+    color: whitesmoke;
+    padding: 0 10p;
+    
+}
+.input-gruop button{
+    border-radius: 30px;
+    background-color: rgb(223, 223, 21);
+    border: 0;
+    position: absolute;
+    right: 1px;
+    bottom: 1px;
+    top: 1px
+}
+.input-gruop button:hover{
+    background-color: rgb(121, 121, 15);
+    cursor: pointer;
+    
+}
